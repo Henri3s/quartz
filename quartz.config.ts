@@ -8,24 +8,24 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
+    pageTitle: "满怀爱意创造",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: "plausible",
+      provider: "plausible", //'google', tagId: '<your-google-tag>' 
     },
-    locale: "en-US",
+    locale: "zh-CN",
     baseUrl: "quartz.jzhao.xyz",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
-      fontOrigin: "googleFonts",
-      cdnCaching: true,
-      typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
-        code: "IBM Plex Mono",
+        fontOrigin: "googleFonts",
+        cdnCaching: true,
+        typography: {
+          header: "Schibsted Grotesk",
+          body: "Source Sans Pro",
+          code: "IBM Plex Mon Mono",
       },
       colors: {
         lightMode: {
@@ -94,3 +94,4 @@ const config: QuartzConfig = {
 }
 
 export default config
+  
