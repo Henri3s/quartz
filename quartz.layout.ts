@@ -10,6 +10,7 @@ export const sharedPageComponents: SharedLayout = {
     links: {
       GitHub: "https://github.com/jackyzha0/quartz",
       "Discord Community": "https://discord.gg/cRFFHYye7t",
+      "Mail": "henri@follow.re",
     },
   }),
 }
@@ -40,7 +41,7 @@ export const defaultContentPageLayout: PageLayout = {
 //  Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
-    Component.RecentNotes({ title: "近期文章"})
+    Component.RecentNotes({ title: "近期文章",showTags: false})
   ],
 }
 

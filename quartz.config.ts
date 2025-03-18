@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible", //'google', tagId: '<your-google-tag>' 
     },
     locale: "zh-CN",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "xn--fes.xn--fiqs8s",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
@@ -83,6 +83,7 @@ const config: QuartzConfig = {
       Plugin.ContentIndex({
         enableSiteMap: true,
         enableRSS: true,
+        rssFullHtml: true,
       }),
       Plugin.Assets(),
       Plugin.Static(),
