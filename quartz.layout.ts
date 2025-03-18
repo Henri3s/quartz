@@ -11,6 +11,7 @@ export const sharedPageComponents: SharedLayout = {
 //    GitHub: "https://github.com/jackyzha0/quartz",
 //    "Discord Community": "https://discord.gg/cRFFHYye7t",
       "Mail": "mailto:henri@follow.re",
+      "RSS" : "https://xn--fes.xn--fiqs8s/index.xml"
     },
   }),
 }
