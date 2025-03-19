@@ -1,12 +1,7 @@
 ---
 title: 满怀爱意创造
 ---
-![](http://infty.life/1813749011/yk6baz03t0l000d7w33fccpwxha1xmjyDIYPDwUxBIaPDGxzDwr=.jpeg)  
-1
-http://infty.life/1813749011/yk6baz03t0l000d7w33fccpwxha1xmjyDIYPDwUxBIaPDGxzDwr=.jpeg
-2
-<img src="http://infty.life/1813749011/yk6baz03t0l000d7w33fccpwxha1xmjyDIYPDwUxBIaPDGxzDwr=.jpeg">
-
+![](https://vip.123pan.cn/1813749011/yk6baz03t0l000d7w33fccpwxha1xmjyDIYPDwUxBIaPDGxzDwr=.jpeg) 
 
 - 身边风景  
 - 阅读记录  
