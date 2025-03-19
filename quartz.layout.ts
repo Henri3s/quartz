@@ -1,5 +1,6 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
+import { SpeedInsights } from "@vercel/speed-insights/next"
 
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
