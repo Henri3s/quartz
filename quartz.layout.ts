@@ -37,7 +37,18 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer(
+//    文件夹和文章 ICON Emoji
+//    {
+//      mapFn: (node) => {
+//        if (node.isFolder) {
+//          node.displayName = "📁 " + node.displayName
+//        } else {
+//          node.displayName = "📄 " + node.displayName
+//        }
+//      },
+//    }
+    ),
   ],
   right: [
 //  Component.Graph(),
